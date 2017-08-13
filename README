@@ -1,0 +1,12 @@
+Usage: 
+git clone [github_url]
+cp Fcitx-quickPhrase/QuickPhrase.mb /usr/share/fcitx/data/
+fcixt restart
+
+Notes:
+A file for fcitx quick input:
+	Contains character-emojis
+	Contains some special characters for marking
+	Contains Japanese hiragana characters
+
+Created by NightlySky
