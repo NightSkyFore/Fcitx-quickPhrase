@@ -1,6 +1,6 @@
 Usage: 
 git clone [github_url]
-cp Fcitx-quickPhrase/QuickPhrase.mb /usr/share/fcitx/data/
+cp Fcitx-quickPhrase/*.mb* /usr/share/fcitx/data/
 fcixt restart
 
 Notes:
